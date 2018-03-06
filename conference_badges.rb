@@ -1,5 +1,5 @@
 # Write your code here.
-class conference_badges
+
 
 attendees = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
 
